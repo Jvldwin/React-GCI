@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/img/logo.jpg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Google Code-in 2019
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
