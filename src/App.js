@@ -1,7 +1,8 @@
 import React from 'react';
-import logo from './assets/img/logo.jpg';
+import logo from './assets/img/logo.png';
 import './App.css';
 
+//Update GCI-ID
 function App() {
   return (
     <div className="App">
